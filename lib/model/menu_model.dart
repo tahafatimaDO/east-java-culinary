@@ -25,12 +25,12 @@ final listMenu = <MenuModel>[
       alamat: 'Surabaya',
       harga: 25000,
       isFavorite: false,
-      fotoUtama: 'http://192.168.100.10/v1/storage/buckets/images/files/soto1/view?project=eastjavaculinary',
+      fotoUtama: 'http://134.209.98.173/v1/storage/buckets/images/files/soto1/view?project=eastjavaculinary',
       urlPhotos: [
-        'http://192.168.100.10/v1/storage/buckets/images/files/soto1/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/soto2/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/soto3/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/soto4/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/soto1/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/soto2/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/soto3/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/soto4/view?project=eastjavaculinary',
       ]),
   MenuModel(
       nama: 'Pecel Madiun 99',
@@ -40,11 +40,11 @@ final listMenu = <MenuModel>[
       alamat: 'Madiun',
       harga: 7000,
       isFavorite: false,
-      fotoUtama: 'http://192.168.100.10/v1/storage/buckets/images/files/pecel1/view?project=eastjavaculinary',
+      fotoUtama: 'http://134.209.98.173/v1/storage/buckets/images/files/pecel1/view?project=eastjavaculinary',
       urlPhotos: [
-        'http://192.168.100.10/v1/storage/buckets/images/files/pecel1/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/pecel2/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/pecel3/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/pecel1/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/pecel2/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/pecel3/view?project=eastjavaculinary',
       ]),
   MenuModel(
       nama: 'Sate Ayam Ponorogo H.Tukri',
@@ -54,10 +54,10 @@ final listMenu = <MenuModel>[
       alamat: 'Ponorogo',
       isFavorite: false,
       harga: 21000,
-      fotoUtama: 'http://192.168.100.10/v1/storage/buckets/images/files/sate1/view?project=eastjavaculinary',
+      fotoUtama: 'http://134.209.98.173/v1/storage/buckets/images/files/sate1/view?project=eastjavaculinary',
       urlPhotos: [
-        'http://192.168.100.10/v1/storage/buckets/images/files/sate1/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/sate2/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/sate1/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/sate2/view?project=eastjavaculinary',
       ]),
   MenuModel(
       nama: 'Bakso Bakar Presiden',
@@ -67,11 +67,11 @@ final listMenu = <MenuModel>[
       harga: 12000,
       isFavorite: false,
       alamat: 'Malang',
-      fotoUtama: 'http://192.168.100.10/v1/storage/buckets/images/files/baso1/view?project=eastjavaculinary',
+      fotoUtama: 'http://134.209.98.173/v1/storage/buckets/images/files/baso1/view?project=eastjavaculinary',
       urlPhotos: [
-        'http://192.168.100.10/v1/storage/buckets/images/files/baso1/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/baso2/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/baso3/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/baso1/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/baso2/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/baso3/view?project=eastjavaculinary',
             
       ]),
   MenuModel(
@@ -80,12 +80,12 @@ final listMenu = <MenuModel>[
       deskripsi:
           'Tempat makan lontong kupang Pak Misari ini merupakan salah satu tempat yang laris di Sidoarjo. Berdiri sejak tahun 1993 dan selalu ramai pengunjung. Apalagi, bumbu racikan dan proses pembuatannya dilakukan sendiri oleh Pak Misari.',
       alamat: 'Sidoarjo',
-      fotoUtama: 'http://192.168.100.10/v1/storage/buckets/images/files/kupang1/view?project=eastjavaculinary',
+      fotoUtama: 'http://134.209.98.173/v1/storage/buckets/images/files/kupang1/view?project=eastjavaculinary',
       harga: 17000,
       urlPhotos: [
-        'http://192.168.100.10/v1/storage/buckets/images/files/kupang1/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/kupang2/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/kupang3/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/kupang1/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/kupang2/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/kupang3/view?project=eastjavaculinary',
         
       ],
       isFavorite: false),
@@ -97,12 +97,12 @@ final listMenu = <MenuModel>[
       alamat: 'Surabaya',
       harga: 25000,
       isFavorite: false,
-      fotoUtama:'http://192.168.100.10/v1/storage/buckets/images/files/sinjay1/view?project=eastjavaculinary',
+      fotoUtama:'http://134.209.98.173/v1/storage/buckets/images/files/sinjay1/view?project=eastjavaculinary',
       urlPhotos: [
-        'http://192.168.100.10/v1/storage/buckets/images/files/sinjay1/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/sinjay2/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/sinjay3/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/sinjay4/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/sinjay1/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/sinjay2/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/sinjay3/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/sinjay4/view?project=eastjavaculinary',
         
       ]),
   MenuModel(
@@ -113,11 +113,11 @@ final listMenu = <MenuModel>[
       alamat: 'Surabaya',
       harga: 20000,
       isFavorite: false,
-      fotoUtama: 'http://192.168.100.10/v1/storage/buckets/images/files/rawon1/view?project=eastjavaculinary',
+      fotoUtama: 'http://134.209.98.173/v1/storage/buckets/images/files/rawon1/view?project=eastjavaculinary',
       urlPhotos: [
-        'http://192.168.100.10/v1/storage/buckets/images/files/rawon1/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/rawon2/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/rawon3/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/rawon1/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/rawon2/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/rawon3/view?project=eastjavaculinary',
         
       ]),
   MenuModel(
@@ -128,11 +128,11 @@ final listMenu = <MenuModel>[
           'Surabaya yangt panas kerap kali membuat seseorang ingin mencari yang segar-segar. Salah satu minuman segar yang ramai dikunjungi adalah Es Dawet Kudus Cak Minto Jalan Mayjen Sungkono No 5.',
       harga: 8000,
       isFavorite: false,
-      fotoUtama: 'http://192.168.100.10/v1/storage/buckets/images/files/dawet1/view?project=eastjavaculinary',
+      fotoUtama: 'http://134.209.98.173/v1/storage/buckets/images/files/dawet1/view?project=eastjavaculinary',
       urlPhotos: [
-        'http://192.168.100.10/v1/storage/buckets/images/files/dawet1/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/dawet2/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/dawet3/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/dawet1/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/dawet2/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/dawet3/view?project=eastjavaculinary',
       ]),
   MenuModel(
       nama: 'Ayam Goreng Bu Sri Pandaan',
@@ -140,11 +140,11 @@ final listMenu = <MenuModel>[
       alamat: 'Pasuruan',
       deskripsi:
           'Berada di depan Taman Wiltatikta, Ayam Goreng Bu Sri memang lebih strategis. Belum lagi besarnya restoran yang juga menyediakan ruang pertemuan itu. Kapasitas kursi restorannya bisa menampung ratusan orang.',
-      fotoUtama: 'http://192.168.100.10/v1/storage/buckets/images/files/ayam1/view?project=eastjavaculinary',
+      fotoUtama: 'http://134.209.98.173/v1/storage/buckets/images/files/ayam1/view?project=eastjavaculinary',
       harga: 100000,
       isFavorite: false,
       urlPhotos: [
-        'http://192.168.100.10/v1/storage/buckets/images/files/ayam1/view?project=eastjavaculinary',
-        'http://192.168.100.10/v1/storage/buckets/images/files/ayam2/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/ayam1/view?project=eastjavaculinary',
+        'http://134.209.98.173/v1/storage/buckets/images/files/ayam2/view?project=eastjavaculinary',
       ])
 ];
